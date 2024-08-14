@@ -32,3 +32,39 @@ Source: Conversation with Copilot, 8/14/2024
 (2) 10 User-Friendly Tools That Low Tech and No Tech Teachers Can Use. https://alldigitalschool.com/user-friendly-tools-for-low-tech-and-no-tech-teachers/.
 (3) 4 nonprofits teaching disadvantaged students to code. https://www.infoworld.com/article/2261360/4-nonprofits-teaching-disadvantaged-students-to-code.html.
 (4) Low-Tech and No-Tech Remote Learning Strategies - TeachersFirst. https://www.teachersfirst.com/blog/2020/05/low-tech-and-no-tech-remote-learning-strategies/.
+
+*
+
+Yes, setting up a local NGO in Cambodia is generally considered easier compared to international NGOs. Here are the key steps and requirements:
+
+### Steps to Set Up a Local NGO in Cambodia
+
+1. **Founding Members**: You need at least three founding members who are at least 18 years old².
+
+2. **Documentation**: Prepare the necessary documents, which include:
+   - Two application forms.
+   - A certificate of residence for the NGO's headquarters from the Chief of Commune or Sangkat.
+   - Two CVs for each founding member, along with recent photographs.
+   - Two copies of the NGO's statutes, signed by the Chairperson².
+
+3. **Statutes**: The statutes should comply with Cambodian laws and include important details such as:
+   - Objectives of the NGO.
+   - Procedures for selecting, terminating, and removing the president or executive director.
+   - Rules for changing the organization's name and logo, and for amending the statutes.
+   - Sources of resources or properties.
+   - Rules for managing resources and properties².
+
+4. **Registration**: Submit the documents to the Ministry of Interior (MOI) for registration².
+
+### Advantages of Local NGOs
+
+- **Simpler Process**: The registration process for local NGOs is generally more straightforward compared to international NGOs, which need to sign an MOU with the Ministry of Foreign Affairs¹.
+- **Local Control**: Local NGOs are usually founded and controlled by Cambodians, which can facilitate better understanding and alignment with local needs and regulations¹.
+- **Community Engagement**: Being locally based, these NGOs often have stronger ties to the communities they serve, which can enhance their effectiveness and impact.
+
+Would you like more information on any specific aspect of setting up a local NGO or any other related topic?
+
+Source: Conversation with Copilot, 8/14/2024
+(1) Update on NGO Registration and Tax Compliance in Cambodia. https://www.hg.org/legal-articles/update-on-ngo-registration-and-tax-compliance-in-cambodia-63568.
+(2) Explainer: Non-Governmental Organizations in Cambodia - Cambodia .... https://cambodiainvestmentreview.com/2022/04/19/explainer-non-governmental-organizations-in-cambodia/.
+(3) NGO in Cambodia | B2B. https://b2b-cambodia.com/industry-overviews/additional-information/ngo-in-cambodia/.
